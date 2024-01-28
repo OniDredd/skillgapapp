@@ -15,7 +15,7 @@ export default function ValueSection() {
             className="rounded-md"
             width="854"
             height="480"
-            src="https://www.youtube.com/embed/Dp3zvKK1MWk?si=17PSySsJW2-MKaJL"
+            src=""
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
